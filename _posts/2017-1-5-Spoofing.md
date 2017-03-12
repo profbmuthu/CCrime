@@ -3,8 +3,8 @@ layout: post
 title: "Spoofing"
 published: true
 data:
-  x: 
-  y: 2000
+  x: 1000
+  y: 3000
 ---
 
 # What is spoofing?
