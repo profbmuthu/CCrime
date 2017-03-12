@@ -8,5 +8,5 @@ data:
 
 ---
 
-#What is a Protocol?
+ _The official procedure or system of rules governing affairs of state or diplomatic occasion
 
