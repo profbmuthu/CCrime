@@ -6,8 +6,8 @@ data:
   x: -1000
   y: 0
 ---
-# What is a *network*? 
-   + A group or system of interconnected people or things.
+# Network ~ Computer Network? 
 
-# What is a *computer network*?
+
+   + A group or system of interconnected people or things.
    + A computer network is a set of computers connected together for the purpose of sharing resources.
