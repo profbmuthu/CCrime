@@ -9,7 +9,7 @@ data:
 ## NW ~ Computer NW? 
 
    + NW - Group or system of interconnected people or things.
-   + Computer NW - Is a set of computers connected together for the purpose of sharing resources. 
-   + Is a telecommunications network which allows computers to exchange data. 
-   + Computing devices exchange data with each other using a data link. 
+   + Is a set of computers connected together for sharing resources. 
+   + Is a telecommunications network allowing computers to exchange data. 
+   + Computing devices exchange data with each other through data link. 
    + Computers are connected with cable media and / or wireless media
