@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Topology"
+layout: slide
+title: "Email spoofing"
 published: true
 data:
   x: -1000
