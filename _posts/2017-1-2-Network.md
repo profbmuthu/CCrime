@@ -3,7 +3,7 @@ layout: slide
 title: ""
 published: true
 data:
-  x: 1000
+  x: -1000
   y: 0
 
 ---
