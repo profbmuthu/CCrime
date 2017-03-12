@@ -4,7 +4,7 @@ title: "Topology"
 published: true
 data:
   x: 1000
-  y: 3000
+  y: 2000
 
 ---
 
