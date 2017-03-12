@@ -3,7 +3,7 @@ layout: post
 title: "Topology"
 published: true
 data:
-  x: 1500
+  x: 2000
   y: 0
 
 ---
