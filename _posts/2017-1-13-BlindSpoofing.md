@@ -4,7 +4,7 @@ title: "Blind spoofing"
 published: true
 data:
   x: 0
-  y: 4000
+  y: 3000
 
 ---
 + 1. Attacker transmits multiple packets to his intended target 
