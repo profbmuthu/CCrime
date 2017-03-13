@@ -4,7 +4,7 @@ title: "Topology"
 published: true
 data:
   x: -1000
-  y: 2000
+  y: 1000
 ---
 
 1. Shape of a local-area network (LAN) or other communications system
