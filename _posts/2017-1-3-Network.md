@@ -7,6 +7,7 @@ data:
   y: -1000
 ---
 
+
 1. NW - Group or system of interconnected people or things.
 2. Is a set of computers connected together for sharing resources. 
 3. Is a telecommunications network allowing computers to exchange data. 
