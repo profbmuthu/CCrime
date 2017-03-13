@@ -4,7 +4,7 @@ title: "Session Hijacking"
 published: true
 data:
   x: -2000
-  y: -1000
+  y: -2000
 
 ---
 
