@@ -4,7 +4,7 @@ title: "IP Spoofing Types"
 published: true
 data:
   x: -2000
-  y: 2000
+  y: 0
 ---
 
 + Types of IP spoofing.
