@@ -4,7 +4,7 @@ title: "Masqueraading"
 published: true
 data:
   x: -2000
-  y: -1000
+  y: -2000
 
 ---
 + 1.Attack that uses a fake identity, such as a network identity 
