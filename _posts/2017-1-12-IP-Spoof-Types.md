@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Email spoofing"
+title: "IP Spoofing Types"
 published: true
 data:
   x: 0
