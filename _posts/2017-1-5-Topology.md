@@ -3,7 +3,7 @@ layout: slide
 title: "Topology"
 published: true
 data:
-  x: -1000
+  x: -3000
   y: 1000
 ---
 
