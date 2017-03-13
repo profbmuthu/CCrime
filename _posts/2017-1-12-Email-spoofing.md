@@ -3,8 +3,8 @@ layout: slide
 title: "Email spoofing"
 published: true
 data:
-  x: -1000
-  y: 5000
+  x: 0
+  y: 2000
 
 ---
 
