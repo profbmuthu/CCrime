@@ -3,8 +3,8 @@ layout: slide
 title: "Masqueraading"
 published: true
 data:
-  x: 0
-  y: 0
+  x: -2000
+  y: -1000
 
 ---
 + 1.Attack that uses a fake identity, such as a network identity 
