@@ -3,8 +3,8 @@ layout: slide
 title: "Blind spoofing"
 published: true
 data:
-  x: 0
-  y: 3000
+  x: -2000
+  y: 1000
 
 ---
 + 1. Attacker transmits multiple packets to his intended target 
