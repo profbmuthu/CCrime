@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Hekyll Presentation Generator
+title: Network Cyber Crime
 ---
+# Network Cyber Crime Awareness #
++ Understand Cyber Crime and Network Cyber Crime
++ Understand and variations
 
-# Hekyll #
-_pronunciation: "heckle"_
+[Let us go to the session!](preso.html)
 
-Hekyll is a presentation generator that uses Jekyll and Impress.js to create awesome presentations. You write Markdown files, which get turned into individual slides for an Impress.js presentation. How cool is that?
-
-[Check it out in action!](preso.html)
-
-[Fork me on GitHub](https://github.com/bmcmurray/hekyll)
+Dr.B.Muthukumaran
