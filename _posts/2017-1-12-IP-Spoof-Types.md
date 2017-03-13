@@ -3,7 +3,7 @@ layout: slide
 title: "IP Spoofing Types"
 published: true
 data:
-  x: 0
+  x: -2000
   y: 2000
 ---
 
