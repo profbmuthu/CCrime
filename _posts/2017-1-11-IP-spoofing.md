@@ -4,7 +4,7 @@ title: "IP-Spoofing"
 published: true
 data:
   x: -2000
-  y: 1000
+  y: -1000
 
 ---
 + 1. IP Spoofing is a technique used to gain unauthorized access to machines, 
