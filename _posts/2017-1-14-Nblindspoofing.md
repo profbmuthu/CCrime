@@ -3,8 +3,8 @@ layout: slide
 title: "Non Blind spoofing"
 published: true
 data:
-  x: 0
-  y: 4000
+  x: -2000
+  y: 2000
 ---
 
 + 1. Cracker resides on the same subnet as his intended target 
