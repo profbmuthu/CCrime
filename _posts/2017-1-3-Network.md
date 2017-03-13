@@ -4,7 +4,7 @@ title: "NW ~ Computer NW"
 published: true
 data:
   x: -1000
-  y: 0
+  y: -1000
 ---
 
 1. NW - Group or system of interconnected people or things.
