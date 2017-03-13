@@ -3,7 +3,7 @@ layout: post
 title: "Session Hijacking"
 published: true
 data:
-  x: 2000
+  x: -2000
   y: -1000
 
 ---
