@@ -3,8 +3,8 @@ layout: slide
 title: "Man in the Middle"
 published: true
 data:
-  x: 0
-  y: 5000
+  x: 1000
+  y: 0
 ---
 
 + 1. Two machines are communicating with each other. 
