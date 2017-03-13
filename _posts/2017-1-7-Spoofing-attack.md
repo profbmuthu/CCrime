@@ -4,7 +4,7 @@ title: "Spoofing Attack"
 published: true
 data:
   x: -1000
-  y: 4000
+  y: 3000
 
 ---
 1. Spoofing attack is a malicious activity in order to launch attacks. 
