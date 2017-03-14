@@ -4,7 +4,7 @@ title: "Spyware-Types.."
 published: true
 data:
   x: 0
-  y: -3000
+  y: -2000
 ---
 
 + Dialers  Auto-dial toll calls without your permission. 
