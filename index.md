@@ -6,6 +6,6 @@ title: Network Cyber Crime
 + Understand Cyber Crime 
 + Understand Network Cyber Crime
 + Understand variations
-[Let us go to the session!](preso.html)
+[Let us go to the session!](ccrime.html)
 
 Dr.B.Muthukumaran
