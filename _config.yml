@@ -1,12 +1,57 @@
-encoding: UTF-8
-pygments: true
-permalink: "/:title"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-## Hekyll Configuration ##
-simple-slideshow: false  # true/false -- when enabled, slide positioning is ignored and a simple cross-fade will be used to transition between slides.
+# Site settings
+title: Blog
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+   Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  
+  
+  
+baseurl: "/cards" # the subpath of your site, e.g. /blog
+url: "https://profbmuthu/github.io/" # the base hostname & protocol for your site
 
-overview: true # true/false -- enabling this will add an overview slide at the end of the presentation. The overview slide will not display if simple-slideshow, above, is enabled.
-overview-data:
-  x: 1000  # integer -- set this to the center x point of the overview slide, usually the center of your slide canvas area
-  y: 1000  # integer -- set this to the center y point of the overview slide, usually the center of your slide canvas area
-  scale: 10  # integer -- set the scale of the overview slide, usually far enough back to fit everything in view
+#sidebar
+default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+
+#footer
+built-by: profbmuthu
+copyright:
+   name: 
+   link: 'http://blog.webjeda.com'
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
+# Tracker
+analytics: UA-83979019-1
+
+# Comments
+disqus-shortname: webjeda-demo
+
+#social
+facebook: http://facebook.com/webjeda
+quora: http://quora.com/sharathdt
+twitter: http://twitter.com/@webjeda
+github: http://github.com/webjeda
+
+#facebook like box
+fb-app-id: 549480635219583
+fb-page-url: https://www.facebook.com/webjeda/
+fb-page-title: webjeda
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+gems: [jekyll-paginate, jekyll-seo-tag]
+
