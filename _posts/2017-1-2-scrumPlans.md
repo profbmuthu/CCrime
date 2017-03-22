@@ -8,7 +8,7 @@ categories: [scrum, management]
 published: true
 ---
 
-All activities are planned. There are various types of planning. This article is limited to scrum planning. Scrum includes three levels of planning: 
+Planning is preparing a sequence of action steps to achieve some specific goal. When planning is carried, out methodically, it  reduces the time and effort to achieve the desired goal. Planning is the process of thinking about and organizing the activities required to achieve a desired goal. All activities are planned. Plan There are various types of planning. This article is limited to scrum planning. Scrum includes three levels of planning: 
 
 - Release Planning, 
 - Sprint Planning, 
