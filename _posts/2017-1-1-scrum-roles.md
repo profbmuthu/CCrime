@@ -9,8 +9,7 @@ published: true
 ---
 
 ## Scrum Roles
-
-Scrum defines three roles as part of a Scrum Team: 
+Scrum is a simple framework used for project management. Scrum defines three roles as part of a Scrum Team: 
 
 - the ScrumMaster
 - the Product Owner
