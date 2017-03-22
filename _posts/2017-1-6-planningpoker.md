@@ -3,7 +3,7 @@ layout: post
 title:  "Planning Poker"
 date:   2017-1-6 10:51:47 +0530
 categories: scrum management
-img: image-1.png
+img: poker.png
 categories: [scrum, management]
 published: true
 ---
