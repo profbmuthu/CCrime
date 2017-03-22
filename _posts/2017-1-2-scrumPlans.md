@@ -8,8 +8,6 @@ categories: [scrum, management]
 published: true
 ---
 
-### Scrum Planning
-
 All activities are planned. There are various types of planning. This article is limited to scrum planning. Scrum includes three levels of planning: 
 
 - Release Planning, 
