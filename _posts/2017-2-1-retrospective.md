@@ -7,35 +7,23 @@ img: image-1.png
 categories: [one, two]
 published: true
 ---
-## Scrum
 
-Scrum is a disciplined framework for agile project management made up of a few simple roles, structured meetings, and artifacts.
+### Scrum
 
-## Scrum Roles
+One of the management techniques taking over the software industry is agile scrum. It is one of the original agile processes, originating in the early 1990’s. It is a disciplined framework for agile project management. It is made up of a few simple roles, structured meetings, and artifacts. Other agile processes have emerged since then, including Extreme Programming, Crystal, Adaptive Software Development, Feature Driven Development, and Dynamic Systems Development Method.
 
-Scrum defines three roles as part of a Scrum Team: the ScrumMaster, the Product Owner, and the Team. 
+Scrum is not an acronym. It is a term borrowed from the sport of rugby, where it refers to a way of restarting a game after an accidental infringement or when the ball has gone out of play. The name “Scrum” was first used in this context in 1986 by Takeuchi and Nonaka.
 
-### Scrum Master
+Scrum originally was conceived for software development projects. In general, it is more important to know the business needs of the software or hardware than to have complicated technical documentation of the product. The scrum approach focuses on the business needs of projects when developing products and services. It is more important to get the user story and how the product will be used in the context of the customer.  
 
-The ScrumMaster is a servant to the team. This person is responsible for ensuring the Scrum Team adheres to Scrum values, practices, and rules. The ScrumMaster ensures that meetings run smoothly and makes sure that everyone on the team has what they need to be successful. 
+Scrum revolves around Scrum Teams. Scrum is a team-based iterative and incremental Agile methodology for tackling projects. It is about the communication between members of the team and it is about creating something that provides tangible benefits to stakeholders.It enables teams to deliver the right features on time, on budget, and with great quality. Scrum helps a software development organization adapt to changing business requirements and stakeholders’ needs while protecting the team from unproductive disruptions to their workflow. 
 
-If the Scrum Team faces a Blocker, an issue that prevents progress, the Scrum Master is responsible for ensuring its quick resolution.
+### Scrum Framework
 
-### Scrum Product Owner
+SCRUM is not a process or a technique for building products; rather, it is a framework within which one can employ various processes and techniques.  It is a framework for organizing and managing work. It is simple to understand and deploy. It is the most common agile method used today.  It is based on a set of values, principles, and practices that provide the foundation to which one's organization will add its unique implementation of relevant engineering practices and specific approaches for realizing the Scrum practices. 
 
-The Scrum Product Owner is the person who owns the Product Backlog (a list of stakeholder needs for the product), ranks the work items by priority, and defines the acceptance conditions.
+Scrum is a refreshingly simple, people-centric framework based on the values of honesty, openness, courage, respect, focus, trust, empowerment, and collaboration.   The framework consists of Scrum Teams and their associated roles, events, artifacts, and rules. Each component within the framework serves a specific purpose and is essential to Scrum’s success and usage.    The rules of Scrum bind together the events, roles, and artifacts, governing the relationships and interaction between them. 
 
-The Product Owner is responsible for everything that goes into the product release. The Product Owner meets with stakeholders, to collect the requirements.
-
-The Product Owner is responsible for using his or her technical knowledge as well as knowledge of the team and of the business value to assess stakeholder needs and order the backlog in a priority sequence.
-
-
-### Scrum Team
-
-The Team is a self-organizing, self-managing, cross-functional group of people, such as developers, testers, information developers, architects, and any other participants the team nee s to deliver the work described in  he Product Backlog. The Team selects the Product Backlog and turns it into increments.
-
-A Scrum Team consists of the Product Owner, ScrumMaster, and the Team. It is responsible for taking the work in the Product Backlog and figuring out how to deliver small demonstrable increments of the work in each Sprint while they are managing their own work in the process. Team members are collectively responsible for the success of each iteration and of the project as
-a whole
 
 # Scrum Artifacts
 
