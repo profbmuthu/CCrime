@@ -3,7 +3,7 @@ layout: post
 title:  "Retrospective"
 date:   2017-2-1 10:51:47 +0530
 categories: scrum
-img: image-1.png
+img: retrospective.png
 categories: [one, two]
 published: true
 ---
