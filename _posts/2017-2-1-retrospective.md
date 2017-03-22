@@ -4,10 +4,9 @@ title:  "Retrospective"
 date:   2017-2-1 10:51:47 +0530
 categories: scrum
 img: retrospective.png
-categories: [one, two]
+categories: [scrum, management]
 published: true
 ---
-
 Retrospectives are a natural fit in an Agile work environment—Scrum and Crystal explicitly include “inspect and adapt” cycles for the methods and teamwork along with mechanisms to examine and improve the product. 
 
 While continuous builds, automated unit tests, and frequent demonstrations of working code are all ways to focus attention on the product and allow the team to make adjustments, retrospectives focus attention on how the team does their work and interacts.
