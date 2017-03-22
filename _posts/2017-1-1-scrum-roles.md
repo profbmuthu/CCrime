@@ -3,7 +3,7 @@ layout: post
 title:  "Scrum roles"
 date:   2017-1-1 10:51:47 +0530
 categories: scrum
-img: image-1.png
+img: scrumroles.png
 categories: [scrum, management]
 published: true
 ---
