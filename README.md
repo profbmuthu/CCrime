@@ -1,36 +1,38 @@
-# Hekyll
-_pronunciation: "heckle"_
+# Installation: 
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-Authored by: Brian McMurray (bmcmurray) and Steven Merrill (smerrill)
+Watch my video on instlallation
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Hekyll is a presentation generator that uses [Jekyll](https://github.com/mojombo/jekyll) and [Impress.js](https://github.com/bartaz/impress.js) to create awesome presentations. You write [Markdown](http://daringfireball.net/projects/markdown/syntax) files, which get turned into individual slides for an Impress.js presentation.
+## How to delete old **gh-pages** branch?
+After forking the repository, click on **branches**.
 
-## Design Goals
+![delete gh-pages branch](/images/delete-github-branch.png)
 
-Hekyll should:
+Delete ``gh-pages`` branch.
+![delete gh-pages branch](/images/delete-github-branch-2.png)
 
-- Make it easy for hackers to write graphically-impressive presentations in Markdown.
-- Allow easier collaboration on these presentations through GitHub.
-- Allow users to commit and publish their presentations through GitHub using GitHub Pages.
-- Provide a good print stylesheet so that a user can print to PDF when conferences ask for slide decks.
-- Provide a simple slideshow mode for generating quick, regular slide shows (simple cross-fades between slides without the need to individually position each slide "Prezi-style."
+You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
 
-## How to Use Hekyll
+![create gh-pages branch](/images/create-gh-pages-branch.JPG)
 
-1. Download and install Jekyll.
-2. Download or clone the Hekyll repository.
-3. Configure options in _config.yml
-4. Create a new Markdown file for each slide in ``_posts``. Use the ``post_template.md`` as a starting point. Be sure to name each file with a date, just like Jekyll.
+Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
 
-## Requirements
+This process will host the theme as a **Project Page**. You can also download the files for local development. 
 
-- Jekyll
+Default theme will look like this
 
-## Acknowledgements
+![webjeda cards jekyll theme](/images/webjeda-cards-jekyll-theme-1.png)
 
-This project stands on the shoulders of giants and would not be possible without these projects:
+This theme is responsive.
 
-- [impress.js](https://github.com/bartaz/impress.js)
-- [Jekyll](https://github.com/mojombo/jekyll)
-- [GitHub Pages](http://pages.github.com/)
+![webjeda cards responsive jekyll theme](/images/webjeda-cards-responsive-jekyll-theme-2.png)
 
+
+
+# Development
+Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
+
+
+# License
+MIT License
