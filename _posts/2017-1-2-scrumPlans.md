@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Scrum Planning"
+date:   2017-1-2 10:51:47 +0530
 categories: scrum management
 img: image-2.png
-categories: two
+categories: [scrum, management]
 published: true
 ---
 
