@@ -23,7 +23,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: profbmuthu
 copyright:
    name: 
-   link: 'http://blog.webjeda.com'
+   link: 'http://geetham.in'
 
 # Build settings
 markdown: kramdown
@@ -35,7 +35,7 @@ paginate_path: /page:num/
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: geetham
 
 #social
 facebook: http://facebook.com/webjeda
