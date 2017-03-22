@@ -31,11 +31,10 @@ When the team agrees to tackle the work, the Product Owner adds the correspondin
 
 ### Daliy Scrum
 
-Every day, the Scrum team gathers in front of their taskboard to discuss the progress made yesterday, goals for today, and any impediments blocking their path.
+In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum.”  The Scrum team gathers in front of their taskboard to discuss the progress made yesterday, goals for today, and any impediments blocking their path.
 
 - What have I done since the last Scrum meeting (yesterday)?
 - What will I do before the next Scrum meeting (tomorrow)?
 - What prevents me from performing my work as well as possible?
 
-This meeting should not exceed 15 minutes. If members of the team need to discuss an issue that cannot be covered in that amount of time, we recommend they attend a sidebar meeting following the standup. This allows team members to attend meetings that directly involve their work, instead of sitting through irrelevant meetings. Unfortunately, daily Scrums often last longer than 15 minutes. To compensate, many teams use stop watches or timers to uphold the time limitations. Also, to limit distracting small talk, many teams employ a talking stick or mascot, which a team member must hold to speak in the meeting. Upon finishing an update, the talking stick is then passed to the next team member, who reports, and so on.
-
+Meetings are typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the morning, as it helps set the context for the coming day's work.  This meeting should not exceed 15 minutes. If members of the team need to discuss an issue that cannot be covered in that amount of time, we recommend they attend a sidebar meeting following the standup. This allows team members to attend meetings that directly involve their work, instead of sitting through irrelevant meetings. Unfortunately, daily Scrums often last longer than 15 minutes. To compensate, many teams use stop watches or timers to uphold the time limitations. Also, to limit distracting small talk, many teams employ a talking stick or mascot, which a team member must hold to speak in the meeting. Upon finishing an update, the talking stick is then passed to the next team member, who reports, and so on.
