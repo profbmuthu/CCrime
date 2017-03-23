@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Scrum Velocity"
+date:   2017-1-2 10:51:47 +0530
+categories: scrum management
+img: image-2.png
+categories: [scrum, management]
+published: true
+---
+
+
+
+Velocity is the average amount of work a team can do within a Sprint. For teams estimating their user stories using story points, their velocity is the number of story points for each completed
+user story in a Sprint. When a project involves multiple teams, estimating the velocity becomes more challenging because of the skill differences between the teams. The development team doing the work should
+always estimate the stories they will work on because teams have different scales. A story worth one story point for one team may be worth three for another.
+
+Teams must work together for a few Sprints before they are able to start estimating their velocity; this is why it is important not to use the first Sprint of a new team as an indicator of
+expected velocity. For new teams, the Product Owner should measure two or three Sprints worth of work, perhaps through early prototyping, to start forecasting the project velocity.
+Velocity is important because it allows the teams to help estimate how much work they can deliver.
