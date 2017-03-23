@@ -7,11 +7,6 @@ img: image-2.png
 categories: [scrum, management]
 published: true
 ---
-
-## Scrum Artifacts
-
-## Types of Scrum Artifacts
-
 Scrum Teams work from a single, prioritized Product Backlog It is the master list of work for the entire project. It contains the prioritized requirements and size estimates for both business value and development effort. Anyone on the team can add items to the Product Backlog.
 
 Although Scrum does not define the format for stakeholder needs, many teams use User Stories because they can help teams to focus on the value they will deliver to stakeholders
