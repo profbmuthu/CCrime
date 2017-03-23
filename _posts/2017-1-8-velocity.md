@@ -3,7 +3,7 @@ layout: post
 title:  "Scrum Velocity"
 date:   2017-1-2 10:51:47 +0530
 categories: scrum management
-img: image-2.png
+img: velocity.png
 categories: [scrum, management]
 published: true
 ---
